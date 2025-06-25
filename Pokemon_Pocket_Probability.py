@@ -48,7 +48,7 @@ results = success_count / trials
 print(f'The chances of getting Charmander and Moltres in your starting hand is: {results:.4f}')
 
 #Analysis: So after running a simulation of 1000 trials we get a result of 0.3750. We could calculate the average
-#and get a more solid answer but this took longer than expected so imma pass lol. We could just store each trial(i) in a array
+#and get a more solid answer .We could just store each trial(i) in a array
 #and take the mean() for that array. From the theoretical results both seem to have similar results ranging from 38%-41%
 
 
